@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\bin\Debug\net5.0\DemoFileInfoClass.exe
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\bin\Debug\net5.0\DemoFileInfoClass.deps.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\bin\Debug\net5.0\DemoFileInfoClass.runtimeconfig.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\bin\Debug\net5.0\DemoFileInfoClass.runtimeconfig.dev.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\bin\Debug\net5.0\DemoFileInfoClass.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\bin\Debug\net5.0\ref\DemoFileInfoClass.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\bin\Debug\net5.0\DemoFileInfoClass.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\obj\Debug\net5.0\DemoFileInfoClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\obj\Debug\net5.0\DemoFileInfoClass.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\obj\Debug\net5.0\DemoFileInfoClass.AssemblyInfo.cs
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\obj\Debug\net5.0\DemoFileInfoClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\obj\Debug\net5.0\DemoFileInfoClass.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\obj\Debug\net5.0\ref\DemoFileInfoClass.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\obj\Debug\net5.0\DemoFileInfoClass.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoFileInfoClass\DemoFileInfoClass\obj\Debug\net5.0\DemoFileInfoClass.genruntimeconfig.cache

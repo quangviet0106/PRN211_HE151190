@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace Prototype
 {
     public abstract class Phone

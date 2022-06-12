@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\bin\Debug\net5.0\DemoBinaryWriterAndBinaryReader.exe
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\bin\Debug\net5.0\DemoBinaryWriterAndBinaryReader.deps.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\bin\Debug\net5.0\DemoBinaryWriterAndBinaryReader.runtimeconfig.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\bin\Debug\net5.0\DemoBinaryWriterAndBinaryReader.runtimeconfig.dev.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\bin\Debug\net5.0\DemoBinaryWriterAndBinaryReader.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\bin\Debug\net5.0\ref\DemoBinaryWriterAndBinaryReader.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\bin\Debug\net5.0\DemoBinaryWriterAndBinaryReader.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\obj\Debug\net5.0\DemoBinaryWriterAndBinaryReader.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\obj\Debug\net5.0\DemoBinaryWriterAndBinaryReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\obj\Debug\net5.0\DemoBinaryWriterAndBinaryReader.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\obj\Debug\net5.0\DemoBinaryWriterAndBinaryReader.AssemblyInfo.cs
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\obj\Debug\net5.0\DemoBinaryWriterAndBinaryReader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\obj\Debug\net5.0\DemoBinaryWriterAndBinaryReader.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\obj\Debug\net5.0\ref\DemoBinaryWriterAndBinaryReader.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\obj\Debug\net5.0\DemoBinaryWriterAndBinaryReader.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoBinaryWriterAndBinaryReader\DemoBinaryWriterAndBinaryReader\obj\Debug\net5.0\DemoBinaryWriterAndBinaryReader.genruntimeconfig.cache

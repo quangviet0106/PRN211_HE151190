@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\bin\Debug\net5.0\DemoDirectoryInforClass.exe
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\bin\Debug\net5.0\DemoDirectoryInforClass.deps.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\bin\Debug\net5.0\DemoDirectoryInforClass.runtimeconfig.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\bin\Debug\net5.0\DemoDirectoryInforClass.runtimeconfig.dev.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\bin\Debug\net5.0\DemoDirectoryInforClass.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\bin\Debug\net5.0\ref\DemoDirectoryInforClass.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\bin\Debug\net5.0\DemoDirectoryInforClass.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\obj\Debug\net5.0\DemoDirectoryInforClass.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\obj\Debug\net5.0\DemoDirectoryInforClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\obj\Debug\net5.0\DemoDirectoryInforClass.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\obj\Debug\net5.0\DemoDirectoryInforClass.AssemblyInfo.cs
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\obj\Debug\net5.0\DemoDirectoryInforClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\obj\Debug\net5.0\DemoDirectoryInforClass.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\obj\Debug\net5.0\ref\DemoDirectoryInforClass.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\obj\Debug\net5.0\DemoDirectoryInforClass.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoDirectoryInforClass\DemoDirectoryInforClass\obj\Debug\net5.0\DemoDirectoryInforClass.genruntimeconfig.cache

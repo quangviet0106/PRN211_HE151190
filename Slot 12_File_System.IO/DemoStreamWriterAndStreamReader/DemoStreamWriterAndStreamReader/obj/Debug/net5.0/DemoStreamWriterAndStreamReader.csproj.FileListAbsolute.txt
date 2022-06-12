@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\bin\Debug\net5.0\DemoStreamWriterAndStreamReader.exe
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\bin\Debug\net5.0\DemoStreamWriterAndStreamReader.deps.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\bin\Debug\net5.0\DemoStreamWriterAndStreamReader.runtimeconfig.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\bin\Debug\net5.0\DemoStreamWriterAndStreamReader.runtimeconfig.dev.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\bin\Debug\net5.0\DemoStreamWriterAndStreamReader.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\bin\Debug\net5.0\ref\DemoStreamWriterAndStreamReader.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\bin\Debug\net5.0\DemoStreamWriterAndStreamReader.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\obj\Debug\net5.0\DemoStreamWriterAndStreamReader.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\obj\Debug\net5.0\DemoStreamWriterAndStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\obj\Debug\net5.0\DemoStreamWriterAndStreamReader.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\obj\Debug\net5.0\DemoStreamWriterAndStreamReader.AssemblyInfo.cs
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\obj\Debug\net5.0\DemoStreamWriterAndStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\obj\Debug\net5.0\DemoStreamWriterAndStreamReader.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\obj\Debug\net5.0\ref\DemoStreamWriterAndStreamReader.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\obj\Debug\net5.0\DemoStreamWriterAndStreamReader.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 12_File_System.IO\DemoStreamWriterAndStreamReader\DemoStreamWriterAndStreamReader\obj\Debug\net5.0\DemoStreamWriterAndStreamReader.genruntimeconfig.cache
